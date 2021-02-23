@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Anshuman Education
 
 You can use the [editor on GitHub](https://github.com/anshumaneducation/Releases/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
