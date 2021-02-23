@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/anshumaneducation/Releases
 | Name of the Repo | Commit ID      | Hex file       |
 | --------------- | --------------- | --------------- |
 | BT_ZB_WITH_RD2_141124_SMOKE_FIRE_MOTION | Row 1 Column 2 | Row 1 Column 3 |
-| uC_FG_Software_original  | Row 2 Column 2 | Row 2 Column 3 |
+| uC_FG_Software_original  | Row 2 Column 2 | <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/FUNCTION_GEN.hex">Download FILE</a> |
 | uC_RF6_Software_original   | Row 3 Column 2 | Row 3 Column 3 |
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
