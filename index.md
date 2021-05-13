@@ -10,11 +10,6 @@ Keep the file labels very small so that the table can be displayed on the mobile
 | uC_FG_Software_original  | 9c6bdb1 | <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/FUNCTION_GEN.hex">FG.hex</a> |
 | uC_RF6_Software_original   | adfd62a | Row 3/Col 3 |
 
-| | | |
-|-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
