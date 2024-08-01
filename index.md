@@ -13,7 +13,7 @@ Keep the file labels very small so that the table can be displayed on the mobile
 | GSM_Wifi_EST_RD2 |  f7ab956  |  <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/GSM_Wifi.hex">GSM_Wifi.hex</a> |10-8-21 |
 | GSM_Wifi_668 |  ca46520  |  <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/GSM_WIFI_668.hex">GSM_Wifi_668.hex</a> |02-09-23 |
 | SEM-Field-station-GUI |  ee318d3  |  <a id="raw-url" href="https://drive.google.com/file/d/1vdGn2Hv9IHV2iORidS6pbajaMSF9X-as/view">SEM Field Station GUI</a> |31-07-24 |
-| sem-shakti |  4224724  |  <a id="raw-url" href="https://drive.google.com/drive/folders/1oFODLyYaVWmqWquaRrEjI3KMoJMqoumu?usp=sharing">SEM Shakti Output 100t</a> |01-08-24 |
+| sem-shakti |  4224724  |  <a id="raw-url" href="https://drive.google.com/drive/folders/1oFODLyYaVWmqWquaRrEjI3KMoJMqoumu?usp=sharing">SEM Shakti Output</a> |01-08-24 |
 
                    
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
