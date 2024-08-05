@@ -1,4 +1,4 @@
-Download this all folder <a href="https://downgit.github.io/#/home?url=https://github.com/anshumaneducation/Releases/tree/gh-pages/SEM-35t">here</a>
+Download this all folder <a href="https://downgit.github.io/#/home?url=https://github.com/anshumaneducation/Releases/tree/gh-pages/SEM-35t">click here</a>
 
 ## REQUIREMENTS
 - preinstalled and setup of openocd
