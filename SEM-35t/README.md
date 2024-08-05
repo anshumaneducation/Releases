@@ -11,7 +11,7 @@ Download this all folder <a href="https://downgit.github.io/#/home?url=https://g
 - `make`
 - `sudo make install`
 
-# how to write hex into 35t from hex files sem_hub.hex and sem_dc.hex using pinaka.cfg?:
+# how to write sem_hub.hex and sem_dc.hex into 35t using pinaka.cfg?:
 
 - download files pinaka.cfg, sem_hub.hex, sem_dc.hex in one folder
 - go to the same folder in terminal and write below command
