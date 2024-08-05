@@ -13,7 +13,8 @@ Keep the file labels very small so that the table can be displayed on the mobile
 | GSM_Wifi_EST_RD2 |  f7ab956  |  <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/GSM_Wifi.hex">GSM_Wifi.hex</a> |10-8-21 |
 | GSM_Wifi_668 |  ca46520  |  <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/GSM_WIFI_668.hex">GSM_Wifi_668.hex</a> |02-09-23 |
 | SEM-Field-station-GUI |  ee318d3  |  <a id="raw-url" href="https://drive.google.com/file/d/1vdGn2Hv9IHV2iORidS6pbajaMSF9X-as/view">SEM Field Station GUI</a> |31-07-24 |
-| sem-shakti |  4224724  |  <a id="raw-url" href="https://drive.google.com/drive/folders/1oFODLyYaVWmqWquaRrEjI3KMoJMqoumu?usp=sharing">Output</a> |01-08-24 |
+| sem-shakti | adfd62a<br><br>dummy_01<br><br>dummy_02<br><br>dummy_03<br><br>dummy_04 | <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/RF 6.hex">RF 6.hex</a> <br><br> <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/RF6AJ.hex">RF6AJ.hex</a> <br><br> <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/RF6AP.hex">RF6AP.hex</a> <br><br> <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/RF6AQ.hex">RF6AQ.hex</a> <br><br> <a id="raw-url" href="https://raw.githubusercontent.com/anshumaneducation/Releases/gh-pages/files/RF6AR.hex">RF6AR.hex</a>| 05-08-24 <br><br> 05-08-24 <br><br> 05-08-24 <br><br>05-08-24  <br><br>05-08-24 |
+
 
                    
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
