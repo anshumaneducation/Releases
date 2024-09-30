@@ -1,2 +1,2 @@
-Sem Desktop app download from here [Download Field Station App](https://drive.google.com/file/d/1vdGn2Hv9IHV2iORidS6pbajaMSF9X-as/view?usp=drive_link)
+Sem Desktop app download from here [Download Field Station App](https://drive.google.com/file/d/1GeFj2NHJ-c6OOWXdC-eKYFjs6iVYiRqr/view?usp=sharing)
 
